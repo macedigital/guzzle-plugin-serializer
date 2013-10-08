@@ -1,3 +1,5 @@
-# silex-guzzle-provider
+# guzzle-plugin-serializer
 
-Expose guzzle service description clients - optionally use jms-serializer for transforming incoming/outgoing data
+A [Guzzle](http://guzzlephp.org/) plugin for (de-)serializing requests and/or responses by using the [JMS-Serializer](http://jmsyst.com/libs/serializer) library.
+
+
